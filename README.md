@@ -22,6 +22,12 @@ The app uses a simple strategy pattern to find the best parking spot for each ve
 - **Two Interfaces**: Use it from the command line or through a web browser
 - **Real-time Status**: See which slots are occupied and which are free
 
+## 🌐 Live Demo
+
+**Try the web interface online!**
+
+The application is deployed on Render and available at: [https://parkinglotmanagerweb.onrender.com](https://parkinglotmanagerweb.onrender.com)
+
 ## Getting Started
 
 ### Prerequisites
