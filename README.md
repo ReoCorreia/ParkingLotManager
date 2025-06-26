@@ -26,7 +26,7 @@ The app uses a simple strategy pattern to find the best parking spot for each ve
 
 **Try the web interface online!**
 
-The application is deployed on Render and available at: [https://parkinglotmanagerweb.onrender.com](https://parkinglotmanagerweb.onrender.com)
+The application is deployed on Render and available at: [https://parkinglotmanagerweb.onrender.com/setup](https://parkinglotmanagerweb.onrender.com/setup)
 
 ## Getting Started
 
